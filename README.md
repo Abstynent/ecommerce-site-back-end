@@ -5,6 +5,10 @@
   ## Description
   Back-end for e-commerce site to handle routes and database queries to store information about products, products tags and categories.
 
+
+https://user-images.githubusercontent.com/87772337/235165772-6e59ecee-4292-4f2c-8d95-0e95f53d385a.mp4
+
+
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
