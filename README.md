@@ -3,7 +3,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-  Back-end for e-commerce site to handle routes and database queries to store information about products, products tags and categories.
+  Back-end for e-commerce site to handle routes and database queries to store information about products, products tags and categories. Extended version of starter code provided from [here](https://github.com/coding-boot-camp/fantastic-umbrella)
 
 
 https://user-images.githubusercontent.com/87772337/235165772-6e59ecee-4292-4f2c-8d95-0e95f53d385a.mp4
